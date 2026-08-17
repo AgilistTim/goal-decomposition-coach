@@ -19,19 +19,27 @@ It assumes no prior knowledge of any of this — and a healthy suspicion of proc
 
 ## Install
 
-The **folder is the unit** — grab the whole `goal-decomposition-coach` folder, not the file on its own. The file inside must keep the name `SKILL.md` (that's how Claude finds it); the folder name is what tells you, and Claude, which skill it is.
+Downloading isn't installing — the skill has to end up where Claude looks for it. Pick your Claude:
 
-**Easiest:** download [`goal-decomposition-coach.zip`](https://github.com/AgilistTim/goal-decomposition-coach/releases/latest/download/goal-decomposition-coach.zip) — it's rebuilt automatically on every change, and unzips to the correctly named folder.
+**Claude (claude.ai or the desktop app):** download [`goal-decomposition-coach.zip`](https://github.com/AgilistTim/goal-decomposition-coach/releases/latest/download/goal-decomposition-coach.zip), then Settings → Capabilities → Skills → upload the zip **as-is**. Don't unzip it — Claude takes the zip directly. (Always current: it's rebuilt automatically on every change.)
 
-**Claude (claude.ai):** Settings → Capabilities → Skills → upload this folder as a zip (or paste the contents of `SKILL.md` into a Project's instructions).
-
-**Claude Code:** clone the folder into your project's `.claude/skills/` (or `~/.claude/skills/` for all projects):
+**Claude Code:** one command, either way puts the skill straight where Claude looks (`~/.claude/skills/` for all projects; use a project's `.claude/skills/` to scope it):
 
 ```bash
 git clone https://github.com/AgilistTim/goal-decomposition-coach.git ~/.claude/skills/goal-decomposition-coach
 ```
 
+or, if you already downloaded the zip:
+
+```bash
+unzip ~/Downloads/goal-decomposition-coach.zip -d ~/.claude/skills/
+```
+
+**No skills support where you are?** Paste the contents of [`SKILL.md`](SKILL.md) into a Claude Project's instructions — or any capable AI chat — and it works as a standalone prompt.
+
 Then just ask: *"help me break down this goal"*.
+
+(If you do unzip by hand, keep the folder intact and the file named `SKILL.md` — the folder name carries the skill's identity, the filename is how Claude finds it.)
 
 ## Example
 
