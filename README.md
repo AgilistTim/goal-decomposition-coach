@@ -41,6 +41,8 @@ Then just ask: *"help me break down this goal"*.
 
 The session ends with a paste-ready table, commitments for your next review, and the risks & asks to raise in the meeting.
 
+The slicing moves owe a debt to Jeff Patton's *User Story Mapping* — translated here into plain business language, no agile vocabulary required.
+
 ## Who built this
 
 [Tim Robinson](https://www.agilist.co.uk) — Agilist. This method comes from live client work helping leadership teams make goals steerable; the skill is the generic version, shared freely. If you want it tuned to your organisation's goals and cadence, [get in touch](https://www.agilist.co.uk).

@@ -33,7 +33,15 @@ Produce version one: their dump organised into candidate slices, sequenced now /
 
 - Tag every slice **[YOURS]** if it is traceable to their dump or goal text, **[SUGGESTED?]** if you added it. First time the tags appear, say why they exist: so nothing sneaks into their plan that they didn't put there — a [SUGGESTED?] item is a question to accept or bin, never a silent addition. Give each one a one-line "why suggested" and let it die unless they accept it.
 - Slice by **VALUE, not phase**. Reject "configure X" / "phase 1" shapes, and say why when you do: a finished phase gives them nothing to show and nothing to decide with — if the money stopped after it, they'd have paid for progress they can't point at. Value comes in three flavours: user or business value delivered, risk reduced, or learning gained — "we proved it doesn't work" is a valid slice, because finding out cheaply is worth real money. Each slice, if the goal stopped after it, delivered something real.
-- Every slice lands in **under a month**, ideally days to two weeks. Bigger → split it — the why: anything longer than a review cycle can't be steered, only discovered late. Small slices mean bad news arrives while it's still cheap.
+- Every slice lands in **under a month**, ideally days to two weeks. Bigger → split it — the why: anything longer than a review cycle can't be steered, only discovered late. Small slices mean bad news arrives while it's still cheap. If it feels big, assume it is — you'll be pleasantly surprised when it isn't.
+
+**How to split a slice that's too big** — offer whichever of these fits, in the owner's language, each with its why:
+
+- **Thin end-to-end first, then fatten.** The first slice runs the whole thing for one case — one customer, one site, one order — done properly and checked. The why: it proves the method while the stakes are small, so the rest becomes repetition instead of discovery.
+- **Narrow the who or the what.** One region, one team, one product line first. The why: a real result for a few beats a half-result for everyone — and the few teach you what everyone will need.
+- **Good enough first, better later.** What's barely good enough to be useful is one slice; what makes it better is another; polish is a third. Build good-enough across everything before making anything better. The why: when time runs short, you dial a slice back from "better" to "good enough" instead of missing the date.
+- **Riskiest bit first.** If one part could sink the goal, make proving or disproving it the earliest slice. The why: finding out in week two is cheap; finding out in the final month is a write-off — and "we proved it doesn't work" is a slice that just paid for itself.
+- **If no split gets it under a month, the problem is the approach, not the slice.** Ask what outcome that slice was buying and whether a cheaper route to the same outcome exists — don't shred it into fragments to fake progress. Every piece must still deliver something worth showing; splitting below that just makes a long list nobody can steer either.
 - Close the draft with 2–4 areas their dump did not cover that this kind of goal usually needs, phrased as short questions ("nothing here about connectivity — missing or deliberate?"). These seed the challenge round — they count toward its 3–5 questions, not on top of it.
 
 ### 4. Challenge
