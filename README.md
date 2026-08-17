@@ -15,6 +15,8 @@ You bring one goal and a brain-dump ("ten things off the top of your head — bu
 
 It slices by **value, not phase** (delivered value, risk reduced, or learning — "we proved it doesn't work" is a valid slice), demands **one owner name and one real date** for near-term slices, and deliberately keeps the future loose — a bullet point is enough for "later". Budget 20–30 minutes.
 
+It assumes no prior knowledge of any of this — and a healthy suspicion of process. Every time it asks for something or pushes back, it tells you *why*, in plain business terms, exactly once. If you've heard the reason and still disagree, it's your goal and your call.
+
 ## Install
 
 **Claude (claude.ai):** Settings → Capabilities → Skills → upload this folder as a zip (or add `SKILL.md` to a Project's instructions).
