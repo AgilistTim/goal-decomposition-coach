@@ -19,9 +19,11 @@ It assumes no prior knowledge of any of this — and a healthy suspicion of proc
 
 ## Install
 
-**Claude (claude.ai):** Settings → Capabilities → Skills → upload this folder as a zip (or add `SKILL.md` to a Project's instructions).
+The **folder is the unit** — grab the whole `goal-decomposition-coach` folder, not the file on its own. The file inside must keep the name `SKILL.md` (that's how Claude finds it); the folder name is what tells you, and Claude, which skill it is.
 
-**Claude Code:** copy this folder into your project's `.claude/skills/` (or `~/.claude/skills/` for all projects):
+**Claude (claude.ai):** Settings → Capabilities → Skills → upload this folder as a zip (or paste the contents of `SKILL.md` into a Project's instructions).
+
+**Claude Code:** clone the folder into your project's `.claude/skills/` (or `~/.claude/skills/` for all projects):
 
 ```bash
 git clone https://github.com/AgilistTim/goal-decomposition-coach.git ~/.claude/skills/goal-decomposition-coach
