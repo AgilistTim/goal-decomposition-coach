@@ -21,6 +21,8 @@ It assumes no prior knowledge of any of this — and a healthy suspicion of proc
 
 The **folder is the unit** — grab the whole `goal-decomposition-coach` folder, not the file on its own. The file inside must keep the name `SKILL.md` (that's how Claude finds it); the folder name is what tells you, and Claude, which skill it is.
 
+**Easiest:** download [`goal-decomposition-coach.zip`](https://github.com/AgilistTim/goal-decomposition-coach/releases/latest/download/goal-decomposition-coach.zip) — it's rebuilt automatically on every change, and unzips to the correctly named folder.
+
 **Claude (claude.ai):** Settings → Capabilities → Skills → upload this folder as a zip (or paste the contents of `SKILL.md` into a Project's instructions).
 
 **Claude Code:** clone the folder into your project's `.claude/skills/` (or `~/.claude/skills/` for all projects):

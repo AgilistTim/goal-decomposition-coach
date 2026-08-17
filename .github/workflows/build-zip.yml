@@ -1,0 +1,31 @@
+name: Build skill zip
+
+on:
+  push:
+    branches: [main]
+    paths: [SKILL.md, README.md, LICENSE]
+
+permissions:
+  contents: write
+
+jobs:
+  zip:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build zip in install shape
+        run: |
+          mkdir -p /tmp/pkg/goal-decomposition-coach
+          cp SKILL.md README.md LICENSE /tmp/pkg/goal-decomposition-coach/
+          cd /tmp/pkg && zip -r goal-decomposition-coach.zip goal-decomposition-coach
+
+      - name: Refresh rolling release asset
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release view latest --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1 || \
+            gh release create latest --repo "$GITHUB_REPOSITORY" \
+              --title "Latest" \
+              --notes "Auto-built from the latest main. Unzip into .claude/skills/ or upload the zip to claude.ai — see the README."
+          gh release upload latest /tmp/pkg/goal-decomposition-coach.zip --clobber --repo "$GITHUB_REPOSITORY"
