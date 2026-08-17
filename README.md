@@ -37,7 +37,13 @@ unzip ~/Downloads/goal-decomposition-coach.zip -d ~/.claude/skills/
 
 **No skills support where you are?** Paste the contents of [`SKILL.md`](SKILL.md) into a Claude Project's instructions — or any capable AI chat — and it works as a standalone prompt.
 
-Then just ask: *"help me break down this goal"*.
+Then invoke it in a chat by typing:
+
+```
+/goal-decomposition-coach
+```
+
+…followed by your goal (or just the command, and it will ask). Claude will often reach for the skill on its own when you say something like *"help me break down this goal"* — but the slash command works every time.
 
 (If you do unzip by hand, keep the folder intact and the file named `SKILL.md` — the folder name carries the skill's identity, the filename is how Claude finds it.)
 
