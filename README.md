@@ -10,8 +10,8 @@ You bring one goal and a brain-dump ("ten things off the top of your head — bu
 
 1. **Drafts** version one from *your* material — every slice tagged **[YOURS]** (traceable to your words) or **[SUGGESTED?]** (its addition, which dies unless you accept it)
 2. **Challenges** the gaps — 3–5 questions, sharpest first, one at a time; answer or skip
-3. **Confirms** the four things it will never invent: owner, date, rank, and the evidence you'd accept as proof of done
-4. **Exports** a paste-ready slice table, your commitments for the next review, and the risks & asks to say out loud in the meeting
+3. **Confirms** the four things it will never invent — owner, date, rank, and the evidence you'd accept as proof of done — and asks, for each near-term slice, whose help you'll need to finish it
+4. **Exports** a paste-ready slice table, your commitments for the next review, and the risks & asks to say out loud in the meeting (if your organisation runs on user stories and acceptance criteria, ask and it will translate — the mapping is direct)
 
 It slices by **value, not phase** (delivered value, risk reduced, or learning — "we proved it doesn't work" is a valid slice), demands **one owner name and one real date** for near-term slices, and deliberately keeps the future loose — a bullet point is enough for "later". Budget 20–30 minutes.
 
