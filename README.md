@@ -61,7 +61,9 @@ Then invoke it in a chat by typing:
 
 The session ends with a paste-ready table, commitments for your next review, and the risks & asks to raise in the meeting.
 
-The slicing moves owe a debt to Jeff Patton's *User Story Mapping* — translated here into plain business language, no agile vocabulary required.
+Before you commit, it runs a **capacity check**: the day job doesn't stop, so the commitments block only carries what will genuinely be done by the review — three commitments kept beat six slipped.
+
+The slicing moves owe debts to Jeff Patton's *User Story Mapping*, Richard Lawrence's story-splitting patterns, and Mike Cohn's SPIDR — translated here into plain business language, no agile vocabulary required.
 
 ## Who built this
 
