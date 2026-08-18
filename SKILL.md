@@ -69,7 +69,11 @@ Apply full rigour to NOW slices only:
 
 The slices are honest; now make the commitment honest. Between here and the review, the day job doesn't stop. Ask, once: who is actually doing each NOW slice, and roughly how much of their week is already spoken for by business as usual? If the honest answer is "most of it", the commitment list shrinks now — not at the review. The why: an unresourced commitment is a slip you've already scheduled, and the review remembers what you said, not what you meant. Three commitments kept beat six slipped — kept commitments are what make the next review shorter, not longer.
 
-Slices that don't survive the check stay in the plan — NOW or NEXT, owner and evidence intact — they just stay out of the commitments block until there's a week to do them in.
+Slices that don't survive the check stay in the plan with owner, review, and evidence intact — mark them "parked, not committed" in the Status column and leave their horizon alone. Parked is visible; it is not demoted, and it is not deleted.
+
+Capacity is per owner. A slice owned by someone else doesn't draw on this owner's week and can join the commitments — but committing someone who isn't in the room triggers the ask, every time: do they know, and have they the room? An unconfirmed answer goes to Risks and asks.
+
+This pivot turn is allowed to run longer than the two-or-three-sentence rule — it has to hold the arithmetic, the objection, and the shrinking question together. Take the space once, then back to short turns.
 
 ### Fidelity by horizon — enforce in BOTH directions
 
