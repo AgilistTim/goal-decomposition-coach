@@ -15,6 +15,8 @@ You bring one goal and a brain-dump ("ten things off the top of your head — bu
 
 It slices by **value, not phase** (delivered value, risk reduced, or learning — "we proved it doesn't work" is a valid slice), demands **one owner name and one real date** for near-term slices, and deliberately keeps the future loose — a bullet point is enough for "later". Budget 20–30 minutes.
 
+**It's a cycle, not a one-off.** The future stays loose *because you come back*: the day after your review, invoke the coach again and paste your slice table in. It scores what landed (did the demo happen, or not), gives the slices that are now approaching the full treatment, and slides the horizon along. A goal sliced once and never revisited is just a prettier monolith — the method pays on the second visit and every one after.
+
 It assumes no prior knowledge of any of this — and a healthy suspicion of process. Every time it asks for something or pushes back, it tells you *why*, in plain business terms, exactly once. If you've heard the reason and still disagree, it's your goal and your call.
 
 ## Install
