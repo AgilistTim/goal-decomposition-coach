@@ -8,10 +8,11 @@ Most goals are written as monoliths — "roll out the CRM", "open the new site".
 
 You bring one goal and a brain-dump ("ten things off the top of your head — bullets, a ramble, a dictated voice note"). The coach:
 
-1. **Drafts** version one from *your* material — every slice tagged **[YOURS]** (traceable to your words) or **[SUGGESTED?]** (its addition, which dies unless you accept it)
+1. **Drafts** version one from *your* material — every slice tagged **[YOURS]** (traceable to your words) or **[SUGGESTED?]** (its addition, which dies unless you accept it). Slices too big get split, and it knows eight ways to do that — thin end-to-end first, common case before exceptions, along the dependency line, riskiest bit first…
 2. **Challenges** the gaps — 3–5 questions, sharpest first, one at a time; answer or skip
-3. **Confirms** the four things it will never invent — owner, date, rank, and the evidence you'd accept as proof of done — and asks, for each near-term slice, whose help you'll need to finish it
-4. **Exports** a paste-ready slice table, your commitments for the next review, and the risks & asks to say out loud in the meeting (if your organisation runs on user stories and acceptance criteria, ask and it will translate — the mapping is direct)
+3. **Confirms** the four things it will never invent — owner, the review it's committed to, rank, and the evidence you'd accept as proof of done — and asks, for each near-term slice, whose help you'll need to finish it
+4. **Runs the capacity check** before you commit — the day job doesn't stop, so the commitments block only carries what will genuinely be done by the review. Slices that don't make the cut stay in the plan, visibly parked; three commitments kept beat six slipped
+5. **Exports** a paste-ready slice table, your commitments for the next review, and the risks & asks to say out loud in the meeting (if your organisation runs on user stories and acceptance criteria, ask and it will translate — the mapping is direct)
 
 It slices by **value, not phase** (delivered value, risk reduced, or learning — "we proved it doesn't work" is a valid slice), demands **one owner name and a named review it will be demonstrated at** for near-term slices (a vague "sometime in Q4" is still rejected), and deliberately keeps the future loose — a bullet point is enough for "later". Budget 20–30 minutes.
 
@@ -60,8 +61,6 @@ Then invoke it in a chat by typing:
 > **Coach:** *(drafts slices tagged [YOURS]/[SUGGESTED?], flags what the dump didn't cover, then challenges: "Fit-out is booked — is the contractor's completion date before your staff induction needs the building? Who's confirmed that?")*
 
 The session ends with a paste-ready table, commitments for your next review, and the risks & asks to raise in the meeting.
-
-Before you commit, it runs a **capacity check**: the day job doesn't stop, so the commitments block only carries what will genuinely be done by the review — three commitments kept beat six slipped.
 
 The slicing moves owe debts to Jeff Patton's *User Story Mapping*, Richard Lawrence's story-splitting patterns, and Mike Cohn's SPIDR — translated here into plain business language, no agile vocabulary required.
 
